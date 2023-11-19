@@ -5,7 +5,7 @@ from comic_bar import ComicBarLevel
 import discord
 
 CHANNEL_ID = 1148349444996214874
-BOT_TOKEN = "MTE0ODMyMjY5OTUxMzQ1MDYyNw.GGVofR.r5Ez6KqfA4O-a1Xd4UxSl-ODk78Yl4_aGMq80s"
+BOT_TOKEN = "BOT TOKEN"
 
 
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
